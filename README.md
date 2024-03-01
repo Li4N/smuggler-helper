@@ -5,3 +5,10 @@ This script allows you to manually count bytes used in requests in order to cont
 ## Usage
 Run script with python and choose between the options displayed at main menu
 
+#### MAIN MENU OPTIONS
+
+1. Enter multiline text and count bytes
+2. Enter text as oneliner and count bytes
+3. Convert from hexadecimal to decimal
+4. Convert from decimal to hexadecimal
+0. Exit
