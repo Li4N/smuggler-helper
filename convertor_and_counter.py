@@ -58,5 +58,4 @@ def main_menu():
         else:
             print("Invalid option. Please choose an option from the menu.")
 
-# To use this script, make sure to run it in your local Python environment.
 main_menu()
